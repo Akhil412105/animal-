@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+}
+
+#icon{
+    font-size: 100px;
+}
+
+button{
+    padding: 25px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: chocolate;
+    cursor: pointer;
+}
